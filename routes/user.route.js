@@ -34,7 +34,7 @@ router.get("/autor", async (req, res) => {
   
   console.log(token, 'token')
   
-  res.send(user);
+  // res.send(user);
 });
 
 // router.get('/', (req, res) => {
