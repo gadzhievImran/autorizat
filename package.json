@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "bcrypt": "^3.0.6",
-    "config": "^3.2.3",
+    "config": "^3.3.8",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "joi": "^14.3.1",
